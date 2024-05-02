@@ -48,4 +48,6 @@ footer {
 
 #Horarios{
     border-style: double;
+    border-width: medium;
+    border-color: black;
 }
